@@ -34,7 +34,7 @@
   - ansible.builtin.template
   - ansible.builtin.yum
 
-
+<br>
 
 ### 2) Espace entre les tasks
 \
@@ -56,7 +56,7 @@ Par exemple :
     dest: /local/usr/properties.conf
 ```
 
-
+<br>
 
 ### 3) Utilisation du module ansible.builtin.reboot
 #### Le module “ansible.builtin.reboot” est utilisé de la manière suivante :
@@ -97,7 +97,7 @@ Par exemple :
     backup: true
 ```
 
-
+<br>
 
 ### 5) Utilisation du module ansible.builtin.shell
 #### Le module “ansible.builtin.shell” est utilisé de la manière suivante :
@@ -116,7 +116,7 @@ Par exemple :
     cmd: "/local/usr/custom_script.sh"
 ```
 
-
+<br>
 
 ### 6) Utilisation du module ansible.builtin.yum
 #### Le module “ansible.builtin.yum” est utilisé de la manière suivante :
