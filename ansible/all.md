@@ -26,7 +26,6 @@
 ## B) Règles :
 
 ### 1) Modules employés 
-\
 #### Pour les tasks, les modules utilisés sont parmi les suivants :
 
 - Pour les déploiements sur Linux :
@@ -60,7 +59,6 @@ Par exemple :
 
 
 ### 3) Utilisation du module ansible.builtin.reboot
-\
 #### Le module “ansible.builtin.reboot” est utilisé de la manière suivante :
 
 - Aucun paramètre nʼest ajouté au module
@@ -76,7 +74,6 @@ Par exemple :
 <br>
 
 ### 4) Utilisation du module ansible.builtin.template
-\
 #### Le module “ansible.builtin.template” est utilisé de la manière suivante :
 
 - Les paramètres utilisés sont exclusivement les suivants :
@@ -103,7 +100,6 @@ Par exemple :
 
 
 ### 5) Utilisation du module ansible.builtin.shell
-\
 #### Le module “ansible.builtin.shell” est utilisé de la manière suivante :
 
 - Les paramètres utilisés sont exclusivement les suivants :
@@ -123,7 +119,6 @@ Par exemple :
 
 
 ### 6) Utilisation du module ansible.builtin.yum
-\
 #### Le module “ansible.builtin.yum” est utilisé de la manière suivante :
 
 - Les paramètres utilisés sont exclusivement les suivants :
