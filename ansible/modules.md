@@ -1,5 +1,3 @@
-## B) Règles :
-
 ### 1) Modules employés 
 #### Pour les tasks, les modules utilisés sont parmi les suivants :
 
