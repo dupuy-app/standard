@@ -1,4 +1,4 @@
-### 5) Utilisation du module ansible.builtin.shell
+### Utilisation du module ansible.builtin.shell *`#SHE-1.0`*
 #### Le module “ansible.builtin.shell” est utilisé de la manière suivante :
 
 - Les paramètres utilisés sont exclusivement les suivants :
