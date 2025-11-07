@@ -1,4 +1,4 @@
-### 6) Utilisation du module ansible.builtin.yum
+### Utilisation du module ansible.builtin.yum *`#YUM-1.0`*
 #### Le module “ansible.builtin.yum” est utilisé de la manière suivante :
 
 - Les paramètres utilisés sont exclusivement les suivants :
