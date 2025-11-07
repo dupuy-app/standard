@@ -1,4 +1,4 @@
-### 4) Utilisation du module ansible.builtin.template
+### Utilisation du module ansible.builtin.template *`#TEM-1.0`*
 #### Le module “ansible.builtin.template” est utilisé de la manière suivante :
 
 - Les paramètres utilisés sont exclusivement les suivants :
